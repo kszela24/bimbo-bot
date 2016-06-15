@@ -6,13 +6,13 @@ import eliza
 
 rules = {
     "?*x hey ?*y": [
-        "Hey! I'm Ellie."
+        "Hey! I'm bimbo_model."
         ],
     "?*x hi ?*y": [
-        "Hi! I'm Ellie."
+        "Hi! I'm bimbo_model."
         ],
     "?*x hello ?*y": [
-        "Hello there. I'm Ellie."
+        "Hello there. I'm bimbo_model."
         ],
     "?*x yo ?*y": [
         "yo."
@@ -334,6 +334,9 @@ rules = {
         "You seem quite positive",
         "You are sure?",
         "I understand",
+        ],
+    "?*x Kyle ?*y": [
+        "Kyle is so cute :)"
         ],
     "?*x someone ?*y": [
         "Can you be more specific?",
